@@ -1,18 +1,17 @@
-# Isuzu Digital brochure 3
+# Myo Controller Development
 Developer: Anthony A. Castor
 
 This Source does not give any warranty please use at your own risk </br>
 
-Isuzu Digital brochure 3 Development... :D </br>
+Myo Controller Development... :D </br>
 
 This application is free of virus or malware </br>
 
 <h3>Software Requirment </h3>
-Cordova<br/>
-HTML5<br/>
-JavaScript<br/>
-Ionic<br/>
-Ipad/Ipad Air<br/>
+Myo Controller https://www.myo.com/<br/>
+Unity 3D<br/>
+Android Phone<br/>
+IOS Phone<br/>
 
 
 <h3>Online Application</h3>
